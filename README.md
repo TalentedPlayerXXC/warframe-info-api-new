@@ -1,6 +1,5 @@
 ## warframe-info-api
-#### 演示地址：[nymph.rbq.life:3000](http://nymph.rbq.life:3000)
-#### 这是一个Node.js后端服务，主要负责提供三类数据：
+### 感谢[WsureWarframe](https://github.com/WsureWarframe)的server
 1. Warframe世界状态 __url:[/wf/①/②]()__
     - ① 必填参数
         - dev: 国际服英文`json`数据
